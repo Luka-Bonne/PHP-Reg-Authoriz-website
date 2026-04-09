@@ -1,5 +1,8 @@
 # PHP-Reg-Authoriz-website
 
+ КЛЮЧИ КАПЧИ ОТСУТСТВУЮТ в файлах authoriz_process.php и authorization.php 
+ (убрала специально, на всякий случай)
+
 Стек:
 - HTML5
 - CSS3
